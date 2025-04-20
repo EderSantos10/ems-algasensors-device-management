@@ -1,1 +1,1 @@
-# ems-algasensors-divice-management
+# ems-algasensors-device-management
